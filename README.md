@@ -10,3 +10,5 @@ Picture-Puzzle-Game in HTML, JS, CSS
 * Seconds counter
 * Rules button
 * New Game button
+
+# Good Luck!
